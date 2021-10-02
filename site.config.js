@@ -1,15 +1,15 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '78fc5a4b88d74b0e824e29407e9f1ec1',
+  rootNotionPageId: '94529aeeb01743f7ba28c53e7ae0873b',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Transitive Bullshit',
-  domain: 'transitivebullsh.it',
-  author: 'Travis Fischer',
+  name: '情大王的空间',
+  domain: 'https://awillofire.notion.site/DaQingWang-94529aeeb01743f7ba28c53e7ae0873b',
+  author: 'Awillofire',
 
   // open graph metadata (optional)
   description: 'Example site description',
